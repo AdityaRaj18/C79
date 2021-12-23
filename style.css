@@ -1,0 +1,22 @@
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+body {
+    text-align: center;
+}
+#displayname {
+    font-weight: bold;
+}
+#sumbitbtn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sortbtn {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input {
+    margin: 10px;
+}
